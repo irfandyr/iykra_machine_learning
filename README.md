@@ -1,1 +1,1 @@
-# iykra_machine_learning
+# Doing customer segmentation and finding insights from data
